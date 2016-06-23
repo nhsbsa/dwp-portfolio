@@ -8,10 +8,11 @@ var express = require('express'),
 var theme_order = [
       // 'Universal Credit',
       'Help With Health Costs',
-      'Health & Disability',
-      'Working Age',
-      'Retirement Provision',
-      'Fraud & Debt',
+      'Prescription Services',
+      'Dental Services',
+      'Information Services',
+      'NHS Pensions',
+      'Technology Solutions',
       'Platforms'
     ];
 
